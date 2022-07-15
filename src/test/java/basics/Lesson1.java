@@ -1,9 +1,9 @@
 package basics;
 
+import io.github.bonigarcia.wdm.WebDriverManager;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
-
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -15,6 +15,7 @@ public class Lesson1 {
 
   @Before
   public void setup() {
+    WebDriverManager.firefoxdriver().setup();
     firefoxDriver = new FirefoxDriver();
 
   }
