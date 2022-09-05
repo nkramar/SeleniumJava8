@@ -47,4 +47,3 @@ public class Lesson1 {
 а также делать рефреш страницы при необходимости
 driver.navigate().refresh();*/
 
-// test for e-mail change
