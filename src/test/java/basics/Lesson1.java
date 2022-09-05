@@ -46,3 +46,5 @@ public class Lesson1 {
 перемещаться по истории браузера (вперед и назад),
 а также делать рефреш страницы при необходимости
 driver.navigate().refresh();*/
+
+// test for e-mail change
