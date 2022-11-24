@@ -33,22 +33,22 @@
 
 :question: *Что и для чего мы используем в нашем шаблонном проекте:*
 
-- Библиотеку [Owner](URL "http://owner.aeonbits.org/docs/features/") для лёгкой и гибкой конфигурации автотестов через
+- Библиотеку [Owner](http://owner.aeonbits.org/docs/features) для лёгкой и гибкой конфигурации автотестов через
   Properties
-- Библиотеку [Lombok](URL "https://auth0.com/blog/a-complete-guide-to-lombok/") для сокращения шаблонного кода
-- Библиотеку [Jackson](URL "https://www.baeldung.com/jackson/")  для сериализации и десериализации объектов
-- Библиотеку [Rest Assured](URL "https://github.com/rest-assured/rest-assured/wiki/Usage") для тестирования REST API с
+- Библиотеку [Lombok]("https://auth0.com/blog/a-complete-guide-to-lombok/") для сокращения шаблонного кода
+- Библиотеку [Jackson]("https://www.baeldung.com/jackson/")  для сериализации и десериализации объектов
+- Библиотеку [Rest Assured]("https://github.com/rest-assured/rest-assured/wiki/Usage") для тестирования REST API с
   использованием библиотек Java
-- Библиотеку [Pebble Templates](URL "https://pebbletemplates.io/")  для шаблонов с переменными, в которые в дальнейшем
+- Библиотеку [Pebble Templates]("https://pebbletemplates.io/")  для шаблонов с переменными, в которые в дальнейшем
   подставляются нужные данные
-- Framework [JUnit5](URL "https://junit.org/junit5/docs/current/user-guide/") для написания и выполнения автотестов с
+- Framework [JUnit5]("https://junit.org/junit5/docs/current/user-guide/") для написания и выполнения автотестов с
   использованием аннотаций
-- Библиотеку [AssertJ](URL "https://assertj.github.io/doc/#assertj-core-custom-assertions") для осуществления кастомных проверок в тестах 
-- Инструмент для сборки [Gradle](URL "https://docs.gradle.org/current/userguide/what_is_gradle.html")
-- Ииструмент [Allure Report](URL "https://docs.qameta.io/allure/") для визуализации результатов тестирования 
+- Библиотеку [AssertJ]("https://assertj.github.io/doc/#assertj-core-custom-assertions") для осуществления кастомных проверок в тестах 
+- Инструмент для сборки [Gradle]("https://docs.gradle.org/current/userguide/what_is_gradle.html")
+- Ииструмент [Allure Report]("https://docs.qameta.io/allure/") для визуализации результатов тестирования 
 - Класс `Custom Allure Listener` для красивой отрисовки логирования API запросов/ответов
-- Инструмент CI/CD  [TeamCity](URL "https://www.jetbrains.com/help/teamcity/teamcity-documentation.html") для удаленного запуска автотестов
-- Инструмент [Bitbucket](URL "https://bitbucket.org/product/guides") для хостинга кода и совместной работы, основанный на системе контроля версий Git
+- Инструмент CI/CD  [TeamCity]("https://www.jetbrains.com/help/teamcity/teamcity-documentation.html") для удаленного запуска автотестов
+- Инструмент [Bitbucket]("https://bitbucket.org/product/guides") для хостинга кода и совместной работы, основанный на системе контроля версий Git
   
 <h1 align="left">
 <a name="TestCases"><i>Примеры автоматизированных тест кейсов</i></a>
