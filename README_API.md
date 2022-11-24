@@ -1,6 +1,7 @@
-<h1 align="left">
- <a style="color:blue">Шаблонный проект по тестированию API для платформы "СФЕРА"  </a> <img src="images/SFERA.png" width="35" height="30" alt="Сфера"/> 
-</h1> 
+
+<h1 align="center">
+ <a> Шаблонный проект по тестированию API для платформы "СФЕРА"  </a> <img src="images/SFERA.png" width="35" height="30" alt="Сфера"/> 
+</h1>
 
 <a name="наверх"></a>
 
