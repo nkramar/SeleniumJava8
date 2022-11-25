@@ -84,7 +84,7 @@
 >- `README_Common.md` описание работы с DB
 
 
-# <a name="Contacts">Авторы и контакты</a>
+# <a name="Сontacts">Авторы и контакты</a>
 
 
 
